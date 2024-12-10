@@ -3,8 +3,8 @@
 > 更新时间：2024/12/10 <br />
 > 作者：chatgpt-site-cn 
 
-**国内免费体验的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview**<br />
-<br />
+**国内免费体验的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview**
+
 我们为大家整理提供了一些国内可用的 ChatGPT中文版，方便国内用户使用ChatGPT~ 
 
 ## 推荐的 ChatGPT中文版
