@@ -1,9 +1,9 @@
 # ChatGPT中文版：国内免费使用（支持GPT-4，GPT4o）
 
-> 更新时间：2025/01/28    
+> 更新时间：2025/02/02    
 > 作者：chatgpt-site-cn  
 
-**国内免费体验的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview**
+**国内免费体验的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1**
 
 我们为大家整理提供了一些国内可用的 ChatGPT中文版，方便国内用户使用ChatGPT~ 
 
