@@ -1,6 +1,6 @@
 # ChatGPT中文版：国内免费使用（支持GPT-4，GPT-4o）
 
-> 更新：2025/05/28   
+> 更新：2025/06/04   
 > 作者：chatgpt-site-cn  
 
 **国内免费体验的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1**
@@ -9,11 +9,11 @@
 
 ## 推荐的 ChatGPT中文版
 
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT中文版**，支持 **GPT-4、4o 以及 o1**，还提供AI绘画功能，扫码即可使用。
-- [chat.lify.vip](https://www.yixiaai.com/) - **ChatGPT中文版**，支持 **GPT-4、4o 以及 o1**，提供AI文件、AI PPT、AI助手、AI插件功能及思维导图。
-- [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT中文版**，支持 GPT-4、4o，支持**AI绘画（Midjourney和Dall·E）**。
+- [chat.yixiaai.com](https://xsimplechat.com/) - **ChatGPT中文版**，支持 **GPT-4、4o 以及 o1**，还提供AI绘画功能，扫码即可使用。
+- [chat.lify.vip](https://chat.lanjing.pro/) - **ChatGPT中文版**，支持 **GPT-4、4o 以及 o1**，提供AI文件、AI PPT、AI助手、AI插件功能及思维导图。
+- [guide1.lanjing.ai](https://chat.lanjingai.org/) - **ChatGPT中文版**，支持 GPT-4、4o，支持**AI绘画（Midjourney和Dall·E）**。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 中文版，**支持 GPT-4、4o**，简单便捷。
-- [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT中文版**，支持 GPT-4、4o，同时支持 MJ 绘画。
+- [lanjing.ai](https://lanjing.pro/) - **免费ChatGPT中文版**，支持 GPT-4、4o，同时支持 MJ 绘画。
 
 ## 什么是ChatGPT中文版？
 
@@ -26,9 +26,9 @@
 
 ## ChatGPT中文版使用教程
 
-选择上面的一个网站，如：[chat.yixiaai.com](https://chat.yixiaai.com/)。<br />
-直接在对话框中输入你的问题进行提问。<br />
-使用微信扫码，即可开始使用。<br />
+选择上面的一个网站，如：[chat.yixiaai.com](https://xsimplechat.com/)。   
+直接在对话框中输入你的问题进行提问。   
+使用微信扫码，即可开始使用。
 
 ## 常见问题解答
 
